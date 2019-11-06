@@ -1,5 +1,5 @@
 {
-  "nodes": ["https://node1.creary.net"],
+  "nodes": ["https://nodes.creary.net"],
   "dev_uri": "https://dev.creaproject.io",
   "stage_uri": "https://api.creativechainstage.com",
   "address_prefix": "CREA",
